@@ -1,0 +1,27 @@
+# MCP 核心依赖 (用于 fastMCP_adapter.py)
+mcp
+pydantic
+python-dotenv
+
+# 模拟器 py-mgipsim 的核心依赖 (用于支持数学运算和数据处理)
+numpy
+pandas
+scipy
+matplotlib
+
+# requirement from py-mgipsim
+bokeh==2.4.3
+colorama==0.4.6
+matplotlib
+numba==0.59.0
+numpy
+pandas==2.2.3
+py_agata==0.0.5
+scipy==1.14.1
+simplejson==3.19.3
+statsmodels==0.14.1
+streamlit==1.37.0
+tabulate==0.9.0
+tqdm==4.66.2
+qpsolvers==4.3.2
+clarabel==0.7.1

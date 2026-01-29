@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "t1d-simulator": {
+        "command": "/Users/fuchuichui/Desktop/MCPserver-adapter-LLM/.venv/bin/python",
+        "args": ["main.py"],
+        "cwd": "/Users/fuchuichui/Desktop/MCPserver-adapter-LLM",
+        "env": {
+          "PYTHONUNBUFFERED": "1"
+        }
+      }
+    }
+  }
